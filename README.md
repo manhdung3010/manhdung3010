@@ -49,5 +49,4 @@
 ## 🔥 My stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manhdung3010&layout=compact&theme=dark)
 
-![Dung's GitHub stats](https://github-readme-stats.vercel.app/api?username=manhdung3010&show_icons=true&theme=dark)
-
+<!--- ![Dung's GitHub stats](https://github-readme-stats.vercel.app/api?username=manhdung3010&show_icons=true&theme=dark)
