@@ -18,7 +18,6 @@
   </a>
 </div>
 
-> This is my main account for job and work. If you want to see my daily activities, you can go to my second account - [AcusPGP](https://github.com/AcusPGP).
 
 ## 🌱 Languages & Tools
 
