@@ -3,7 +3,8 @@
 - 👀 Highly motivated and ambitious individual seeking an internship opportunity to enhance skills in software industries.
 - 🤗 Proactive, flexible and professional attitude.
 - 🌱 My main programming languages are Java and JavaScript.
-- 📄 My curriculumn vitae: [Click here](https://static.topcv.vn/topcv-cv-uploads/a84e7fb02e8075a45ddb1f40a01bae4d.pdf#toolbar=0&navpanes=0&scrollbar=0)
+<!-- - 📄 My curriculumn vitae: [Click here](https://static.topcv.vn/topcv-cv-uploads/a84e7fb02e8075a45ddb1f40a01bae4d.pdf#toolbar=0&navpanes=0&scrollbar=0) -->
+
 ## 📫 How to reach me
 
 <div id="badges" align="center" style="margin: 3px">
