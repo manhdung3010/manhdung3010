@@ -14,6 +14,9 @@
   <a style="margin: 1px" href="https://github.com/manhdung3010">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white"/>
   </a>
+  <a style="margin: 1px" href="https://gitlab.com/manhdung3010">
+    <img src="https://img.shields.io/badge/Gitlab-white?style=for-the-badge&logo=Gitlab&logoColor=orange"/>
+  </a>
   <a style="margin: 1px" href="mailto:ngmanhdung2003@gmail.com">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=ec4135"/>
   </a>
