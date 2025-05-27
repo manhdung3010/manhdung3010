@@ -2,7 +2,7 @@
 - 👋 Hi there! My name is Nguyen Manh Dung. I am currently a student at Faculty of Information Technology, Hanoi University of Mining and Geology. My major is Computer Science. 
 - 👀 Highly motivated and ambitious individual seeking an internship opportunity to enhance skills in software industries.
 - 🤗 Proactive, flexible and professional attitude.
-- 🌱 My main programming languages are Java and JavaScript.
+- 🌱 My main programming languages are JavaScript and Python.
 <!-- - 📄 My curriculumn vitae: [Click here](https://static.topcv.vn/topcv-cv-uploads/a84e7fb02e8075a45ddb1f40a01bae4d.pdf#toolbar=0&navpanes=0&scrollbar=0) -->
 
 ## 📫 How to reach me
