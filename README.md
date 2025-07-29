@@ -51,7 +51,7 @@
 
 
 ## 🔥 My stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=manhdung3010)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manhdung3010&&rank=-C,-B,-?" alt="manhdung3010" /></a> </p>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manhdung3010&layout=compact&theme=dark)
