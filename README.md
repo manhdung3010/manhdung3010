@@ -53,8 +53,7 @@
 ## 🔥 My stats
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manhdung3010&&rank=-?" alt="manhdung3010" /></a> </p>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manhdung3010&layout=compact&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manhdung3010&show_icons=true&theme=radical)
 
 ![Dung's GitHub stats](https://github-readme-stats.vercel.app/api?username=manhdung3010&show_icons=true&theme=radical&include_all_commits=true)
 
