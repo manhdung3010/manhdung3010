@@ -1,0 +1,20 @@
+name: Refresh Profile README
+
+on:
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Update README
+        run: |
+          echo "<!-- last refresh $(date) -->" >> README.md
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "🤖 Refresh README"
+          git push
