@@ -17,7 +17,7 @@ I'm a passionate **Full Stack JavaScript Developer** and Computer Science studen
 ## 📫 How to Reach Me
 
 <div align="center" style="margin: 20px">
-  <a style="margin: 5px" href="https://www.linkedin.com/in/nguyenmanhdung-working/" target="_blank">
+  <a style="margin: 5px" href="https://www.linkedin.com/in/manhdung3010/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a style="margin: 5px" href="https://github.com/manhdung3010" target="_blank">
