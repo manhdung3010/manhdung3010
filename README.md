@@ -10,7 +10,6 @@ I'm a passionate **Full Stack JavaScript Developer** and Computer Science studen
 
 - 🎓 **Major**: Computer Science at Hanoi University of Mining and Geology
 - 📍 **Location**: Hanoi, Vietnam
-- 👀 Highly motivated and ambitious individual seeking an internship opportunity to enhance skills in software industries
 - 🤗 Proactive, flexible and professional attitude
 - 🌱 My main programming languages are **JavaScript**
 - 💡 **Interests**: Full Stack Development, Modern Web Technologies, Clean Architecture
