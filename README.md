@@ -1,8 +1,9 @@
 # 👋 Hello, I'm Nguyen Manh Dung
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+JavaScript+Developer;Computer+Science+Student;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+JavaScript+Developer;Passionate+Problem+Solver;Building+Scalable+Web+Applications;Lifelong+Learner+%26+Tech+Enthusiast" alt="Typing SVG" />
 </div>
+
 
 ## 👤 About Me
 
