@@ -93,17 +93,18 @@ I'm a passionate **Full Stack JavaScript Developer** and Computer Science studen
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
 ## 🔥 GitHub Statistics
-  <img src="https://github-profile-trophy.vercel.app/?username=manhdung3010&theme=radical&row=2&column=3" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=manhdung3010&theme=flat&row=2&column=3" alt="GitHub Trophies" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=manhdung3010&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=manhdung3010&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manhdung3010&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manhdung3010&layout=compact&theme=default&langs_count=8" alt="Top Languages" />
 
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manhdung3010&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manhdung3010&theme=light&hide_border=true" alt="Contribution Graph" />
 </div>
+
 
 ## 💼 What I'm Looking For
 
