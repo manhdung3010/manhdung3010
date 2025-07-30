@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+JavaScript+Developer;Passionate+Problem+Solver;Building+Scalable+Web+Applications;Lifelong+Learner+%26+Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
-
 ## 👤 About Me
 
 I'm a passionate **Full Stack JavaScript Developer** and Computer Science student at the Faculty of Information Technology, Hanoi University of Mining and Geology. I love building scalable web applications and exploring new technologies.
