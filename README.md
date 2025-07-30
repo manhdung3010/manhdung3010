@@ -100,8 +100,6 @@ I'm a passionate **Full Stack JavaScript Developer** and Computer Science studen
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manhdung3010&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manhdung3010&theme=radical" alt="GitHub Streak" />
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -110,7 +108,7 @@ I'm a passionate **Full Stack JavaScript Developer** and Computer Science studen
 
 ## 💼 What I'm Looking For
 
-- 🎯 **Internship Opportunities** in Full Stack JavaScript Development
+- 🎯 **Opportunities to work on real-world web development projects**
 - 🌟 **Open Source Projects** to contribute and collaborate
 - 📚 **Mentorship** in advanced web development patterns
 - 🤝 **Professional Networking** with industry experts
