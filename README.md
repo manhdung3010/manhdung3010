@@ -102,7 +102,7 @@ I'm a passionate **Full Stack JavaScript Developer** and Computer Science studen
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manhdung3010&theme=github&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manhdung3010&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&area_color=cccccc&area_opacity=0.3&hide_border=true" alt="Contribution Graph" />
 </div>
 
 
