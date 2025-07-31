@@ -94,16 +94,8 @@ I'm a passionate **Full Stack JavaScript Developer** and Computer Science studen
 
 ## 🔥 GitHub Statistics
 <img src="https://github-profile-trophy.vercel.app/?username=manhdung3010&theme=flat&column=6&margin-w=10&margin-h=15&rank=-C,-?" alt="GitHub Trophies Manhdung3010" />
-<table align="left">
-  <tr valign="top">
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=manhdung3010&show_icons=true&theme=default" alt="GitHub Stats Manhdung3010" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manhdung3010&layout=compact&theme=default&langs_count=10" alt="Top Languages Manhdung3010" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=manhdung3010&show_icons=true&theme=default" alt="GitHub Stats Manhdung3010" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manhdung3010&layout=compact&theme=default&langs_count=10" alt="Top Languages Manhdung3010" />
 
 
 
