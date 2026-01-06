@@ -96,7 +96,7 @@ I'm a passionate **Full Stack JavaScript Developer** and Computer Science studen
 <!-- <img src="https://github-readme-stats-fast.vercel.app/?username=manhdung3010&theme=flat&column=6&margin-w=10&margin-h=15&rank=-C,-?" alt="GitHub Trophies Manhdung3010" /> -->
 <img src="https://github-readme-stats-fast.vercel.app/api?username=manhdung3010&show_icons=true&theme=default" alt="GitHub Stats Manhdung3010" />
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=manhdung3010&layout=compact&theme=default&langs_count=10" alt="Top Languages Manhdung3010" />
-<img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=f4f1dee1-99ec-448d-a66c-dcf06a42f398" alt="Top Time Manhdung3010" />
+<img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=f4f1dee1-99ec-448d-a66c-dcf06a42f398&langs_count=8" alt="Top Time Manhdung3010" />
 
 
 ## 📈 Contribution Activity
