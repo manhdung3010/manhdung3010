@@ -99,11 +99,11 @@ I'm a passionate **Full Stack JavaScript Developer** and Computer Science studen
 <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=f4f1dee1-99ec-448d-a66c-dcf06a42f398&langs_count=8" alt="Top Time Manhdung3010" />
 
 
-## 📈 Contribution Activity
+<!-- ## 📈 Contribution Activity -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manhdung3010&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&area_color=cccccc&area_opacity=0.3&hide_border=true" alt="Contribution Graph" />
-</div>
+</div> -->
 
 
 ## 💼 What I'm Looking For
